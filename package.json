@@ -1,0 +1,10 @@
+{
+  "name": "flat-ui-colors-json",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "source-from-sourcemaps": "1.0.2"
+  }
+}
