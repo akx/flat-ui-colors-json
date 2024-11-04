@@ -1,4 +1,4 @@
-MAP_URL := https://flatuicolors.com/static/js/app.0b36eb8.js.map
+MAP_URL := https://flatuicolors.com/static/js/app.5a88034.js.map
 
 README.md: scripts/README* palettes.json
 	node scripts/generate-readme.js > $@

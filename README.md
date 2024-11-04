@@ -6,20 +6,21 @@ Major credit goes to [Ahmet Sülek](https://medium.com/@ahmetsulek) and rest of 
 
 ## Credits
 
-* Flat UI Colors
-* Jeroen Van Eerden
-* Tamer Köseli
-* Ranganath Krishnamani
-* Jesper Dahlqvist
-* Dmitri Litvinov
-* Kate Hoolahan
-* Alexander Zaytsev
-* Léa Poisson
-* Miguel Camacho
-* Martin David
-* Wenjun
-* Kevin Yang
-* Jan Losert
+- Flat UI Colors
+- Jeroen Van Eerden
+- Tamer Köseli
+- Ranganath Krishnamani
+- Jesper Dahlqvist
+- Dmitri Litvinov
+- Kate Hoolahan
+- Alexander Zaytsev
+- Léa Poisson
+- Miguel Camacho
+- Martin David
+- Wenjun
+- Kevin Yang
+- Jan Losert
+
 ## Regenerating palettes.json
 
 You should be able to regenerate palettes.json by running
@@ -56,4 +57,3 @@ The palette data (and the creative effort) might not be licensed similarly, but 
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
-

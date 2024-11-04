@@ -9,7 +9,7 @@ function parseWebpackJSON(p) {
 const palettes = parseWebpackJSON("./data/sources-gen/src/data/palettes.json");
 palettes.forEach((p) => {
   const data = parseWebpackJSON(
-    `./data/sources-gen/src/data/palette-${p.id}.json`
+    `./data/sources-gen/src/data/palette-${p.id}.json`,
   );
   Object.assign(p, data);
 });

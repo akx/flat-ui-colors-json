@@ -1,12 +1,15 @@
 {
   "name": "flat-ui-colors-json",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^2.2.1",
-    "source-from-sourcemaps": "1.0.2"
+    "prettier": "^3.3.3",
+    "source-from-sourcemaps": "2.0.1"
   },
-  "repository": "git@github.com:akx/flat-ui-colors-json.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akx/flat-ui-colors-json.git"
+  },
   "author": "Aarni Koskela <akx@iki.fi>"
 }
